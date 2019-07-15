@@ -2,6 +2,6 @@
 a repo that test circleCI
 
 .
-  /project_code
-  /test_code
-  /circle_ci
+  /project_code \n
+  /test_code \n
+  /circle_ci \n
