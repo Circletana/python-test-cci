@@ -2,7 +2,7 @@
 
 def cal_score(a, b):
 
-    return int(a) * int(b) + 4
+    return int(a) * int(b)
 
 
 if __name__ == '__main__':
