@@ -1,9 +1,12 @@
 # THIS IS THE MAIN CODE
 
-def cal_score(a, b):
+def cal_multiple(a, b):
 
-    return int(a) * int(b) + 2
+    return int(a) * int(b)
 
+def cal_addition(a, b):
+
+    return int(a) + int(b)
 
 if __name__ == '__main__':
 
